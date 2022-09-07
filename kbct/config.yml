@@ -1,0 +1,8 @@
+- keyboards: ["AT Translated Set 2 keyboard", "Keychron K6", "Keychron Keychron K6"]
+
+  keymap:
+    leftalt: leftctrl
+    capslock: leftalt
+    leftctrl: capslock
+    rightalt: rightctrl
+    rightctrl: rightalt

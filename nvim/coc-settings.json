@@ -1,0 +1,6 @@
+{
+    "suggest.noselect": true,
+    "suggest.enablePreselect": false,
+    "diagnostic.displayByAle": true,
+    "html.autoCreateQuotes": false
+}

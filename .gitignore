@@ -1,0 +1,14 @@
+/*
+!.gitignore
+!aria2/
+!git/
+!kbct/
+!kde/
+!nvim/
+!pacman/
+!systemd/
+systemd/user/*/
+!tmux/
+!zsh/
+zsh/system.zsh
+zsh/local.zsh

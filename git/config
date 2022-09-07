@@ -1,0 +1,16 @@
+[user]
+	name = gwentgod
+	email = <++>
+[init]
+	defaultBranch = master
+[core]
+	editor = nvim
+	excludesfile = ~/.config/git/ignore
+[init]
+	defaultBranch = master
+[pull]
+	rebase = true
+[format]
+	pretty = oneline
+[log]
+	abbrevCommit = true
